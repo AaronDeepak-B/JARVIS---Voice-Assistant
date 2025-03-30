@@ -55,7 +55,3 @@ python a.py
 
 ## Contributing
 Feel free to submit pull requests for new features or bug fixes.
-
-## License
-This project is licensed under the MIT License.
-
